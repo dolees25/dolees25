@@ -1,7 +1,7 @@
 # Introduction
 
 
-This is a repository created by *Dolee SHukla*
+This is a repository created by *Dolee Shukla*
 
 
 ## Usage
